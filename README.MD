@@ -6,8 +6,8 @@ A basic ray tracing project, which can display various primitive shapes like squ
 The Makefile will compile the project properly.
 
 ## Usage:
->./minirt <scenename.rt>
+    ./minirt <scenename.rt>
 
 ## Example
-![Image alt](https://github.com/RomanEmelin/miniRT/scene.bmp)
-![Image alt](https://github.com/RomanEmelin/miniRT/scene2.bmp)
+![Image alt](scene.bmp)
+![Image alt](scene2.bmp)
