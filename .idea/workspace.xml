@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd25372f-1601-46d7-aea4-b5ad35905960" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/my_mlx/light.c" beforeDir="false" afterPath="$PROJECT_DIR$/my_mlx/light.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scene.rt" beforeDir="false" afterPath="$PROJECT_DIR$/scene.rt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scene2.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/scene2.bmp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Emelin Roman" />
+        <option value="Roman Emelin" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mkUODwazRdiAowfYrgq55JfZnm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd25372f-1601-46d7-aea4-b5ad35905960" name="Default Changelist" comment="" />
+      <created>1610037048883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610037048883</updated>
+      <workItem from="1610037049930" duration="1000" />
+      <workItem from="1610037058417" duration="18000" />
+      <workItem from="1610037083029" duration="1506000" />
+      <workItem from="1610041905204" duration="14000" />
+      <workItem from="1610125972681" duration="2460000" />
+      <workItem from="1610193029621" duration="465000" />
+      <workItem from="1610207895881" duration="1312000" />
+      <workItem from="1610278841694" duration="679000" />
+      <workItem from="1610366866112" duration="667000" />
+      <workItem from="1610370630689" duration="271000" />
+      <workItem from="1610380173708" duration="225000" />
+      <workItem from="1610469391969" duration="247000" />
+      <workItem from="1610470932980" duration="419000" />
+      <workItem from="1610625037279" duration="385000" />
+      <workItem from="1610635735088" duration="933000" />
+      <workItem from="1610648156053" duration="77000" />
+      <workItem from="1610648262575" duration="779000" />
+      <workItem from="1610703292204" duration="860000" />
+      <workItem from="1610965243664" duration="1000" />
+      <workItem from="1610965247768" duration="156000" />
+      <workItem from="1610975443076" duration="709000" />
+      <workItem from="1610980359690" duration="2000" />
+      <workItem from="1611047586023" duration="228000" />
+      <workItem from="1611056936509" duration="1303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Beta 0.001&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Beta 0.001&quot;" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1015" y="522" key="#Notifications" timestamp="1611057146678">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1015" y="522" key="#Notifications/0.23.2560.1337@0.23.2560.1337" timestamp="1611057146678" />
+    <state x="867" y="248" key="CommitChangelistDialog2" timestamp="1611057139245">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="867" y="248" key="CommitChangelistDialog2/0.23.2560.1337@0.23.2560.1337" timestamp="1611057139245" />
+    <state x="789" y="330" key="SettingsEditor" timestamp="1611059636394">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="789" y="330" key="SettingsEditor/0.23.2560.1337@0.23.2560.1337" timestamp="1611059636394" />
+    <state x="880" y="431" key="Vcs.Push.Dialog.v2" timestamp="1611059618652">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="880" y="431" key="Vcs.Push.Dialog.v2/0.23.2560.1337@0.23.2560.1337" timestamp="1611059618652" />
+  </component>
+</project>
